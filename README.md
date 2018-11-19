@@ -1,3 +1,7 @@
 # Example git project
 
 Some content should go here
+
+## Section 1
+
+Section 1 content should go here
